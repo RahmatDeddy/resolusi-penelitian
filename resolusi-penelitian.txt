@@ -1,3 +1,4 @@
 resolusi-penelitian
 - membuat penelitian tentang template surat
 - membuat penelitian lab
+- membuat aplikasi merch shop
